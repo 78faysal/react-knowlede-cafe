@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/Tc0gCYv/luca-bravo-9l-326-FISzk-unsplash.jpg",
+        "title": "The Art of Writing: A Guide to Lorem Ipsum",
+        "author": "John Doe",
+        "author_img": "https://i.ibb.co/qFcs8VB/samuel-raita-Ri-Dx-Dg-Hg7pw-unsplash.jpg",
+        "posted_date": "2023-10-30",
+        "reading_time": 10,
+        "hashtags": [
+            "#LoremIpsum",
+            "#Writing",
+            "#Sample"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/xGbrtM5/ian-schneider-Tam-Mbr4okv4-unsplash.jpg",
+        "title": "Unlocking Creativity: Crafting a Sample Article",
+        "author": "Jane Smith",
+        "author_img": "https://i.ibb.co/qFcs8VB/samuel-raita-Ri-Dx-Dg-Hg7pw-unsplash.jpg",
+        "posted_date": "2023-10-29",
+        "reading_time": 8,
+        "hashtags": [
+            "#Sample",
+            "#Article",
+            "#Writing"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/RcGKrmN/fabian-moller-g-I7zgb80-QWY-unsplash.jpg",
+        "title": "Contemplating Life: Exploring Random Thoughts",
+        "author": "Alex Johnson",
+        "author_img": "https://i.ibb.co/qFcs8VB/samuel-raita-Ri-Dx-Dg-Hg7pw-unsplash.jpg",
+        "posted_date": "2023-10-28",
+        "reading_time": 12,
+        "hashtags": [
+            "#Random",
+            "#Thoughts",
+            "#Writing"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/rGWyjV9/corinne-kutz-t-MI2-r5-Nfo-unsplash.jpg",
+        "title": "Journey into Nature: Exploring the Beauty of the Outdoors",
+        "author": "Emily Brown",
+        "author_img": "https://i.ibb.co/qFcs8VB/samuel-raita-Ri-Dx-Dg-Hg7pw-unsplash.jpg",
+        "posted_date": "2023-10-27",
+        "reading_time": 15,
+        "hashtags": [
+            "#Nature",
+            "#Exploration",
+            "#Adventure"
+        ]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co/S0k7dNS/aron-visuals-BXOXn-Q26-B7o-unsplash.jpg",
+        "title": "Tech Trends: Innovations Shaping the Future",
+        "author": "David Wilson",
+        "author_img": "https://i.ibb.co/qFcs8VB/samuel-raita-Ri-Dx-Dg-Hg7pw-unsplash.jpg",
+        "posted_date": "2023-10-26",
+        "reading_time": 7,
+        "hashtags": [
+            "#Tech",
+            "#Trends",
+            "#Innovation"
+        ]
+    }
+]
